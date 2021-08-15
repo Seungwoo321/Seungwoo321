@@ -1,11 +1,12 @@
 
-
-## Profile
-Hi there👋 I am **frontend developer** using JavaScript and Vue.js
-
 [![Blogger Badge](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white)](https://seungwoo321.github.io/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Seungwoo321)
 [![Gmail Badge](https://img.shields.io/badge/-seungwoo321@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:seungwoo321@gmail.com)
+
+
+Hi there👋 
+
+I am **frontend developer** using JavaScript and Vue.js
 
 ## 💪 Skils
 [![Vue.js Badge](https://img.shields.io/badge/-Vue.js-41B883?style=flat-square&logo=Vue.js&logoColor=white)]()
@@ -30,11 +31,6 @@ Hi there👋 I am **frontend developer** using JavaScript and Vue.js
 [![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)]()
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)]()
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)]()
-
-
-<!-- ## I did
-* **Megazone Cloud** 2018.08 ~ present
-* **Megazone** 2015.02 ~ 2018.07 -->
 
 ## Certifications
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)](https://www.credly.com/badges/a7028ea2-c50c-4444-90d7-9c0b124253a1/public_url)
