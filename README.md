@@ -36,3 +36,19 @@ I am **frontend developer** using JavaScript and Vue.js
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)](https://www.credly.com/badges/a7028ea2-c50c-4444-90d7-9c0b124253a1/public_url)
 [![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/598f6ac6-2dbd-4394-8ae4-943b2f4c43ea/AWS-Developer-Associate-2020.png)](https://www.credly.com/badges/3a1147d3-61a2-4c44-bb43-8f5d502fec0e/public_url)
 
+<div
+    class="d-flex"
+>
+    <div>
+      <img
+          src="/static/images/aws-certified-solutions-architect-associate.png"
+          width="105"
+          height="105"
+      />
+    </div>
+    <div style="margin-left: 1rem">
+        <h6 style="margin-bottom: 0">AWS Certified Solutions Architect - Associate</h2>
+        <span>Issued by <a href="https://www.credly.com/org/amazon-web-services">Amazon Web Services Training and Certification</a></span>
+    </div>
+</div>
+
