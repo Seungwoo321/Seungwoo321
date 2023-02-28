@@ -1,4 +1,6 @@
 
+![](./github-header-image.png)
+
 [![Blogger Badge](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white)](https://seungwoo321.github.io/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Seungwoo321)
 [![Gmail Badge](https://img.shields.io/badge/-seungwoo321@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:seungwoo321@gmail.com)
@@ -7,6 +9,8 @@
 Hi there👋 
 
 I am **frontend developer** using JavaScript and Vue.js
+
+
 
 ## 💪 Skils
 [![Vue.js Badge](https://img.shields.io/badge/-Vue.js-41B883?style=flat-square&logo=Vue.js&logoColor=white)]()
