@@ -33,12 +33,12 @@ I am **frontend developer** using JavaScript and Vue.js
 [![ElasticSearch Badge](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=ElasticSearch&logoColor=white)]()
 [![Logstash Badge](https://img.shields.io/badge/-Logstash-005571?style=flat&logo=Logstash&logoColor=white)]()
 [![Kibana Badge](https://img.shields.io/badge/-Kibana-005571?style=flat&logo=Kibana&logoColor=white)]()
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white)]()
 
 [![InfluxDB Badge](https://img.shields.io/badge/-InfluxDB-22ADF6?style=flat-square&logo=InfluxDB&logoColor=white)]()
 [![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)]()
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)]()
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)]()
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white)]()
 
 ## Certifications
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](https://www.credly.com/badges/a7028ea2-c50c-4444-90d7-9c0b124253a1/public_url)
