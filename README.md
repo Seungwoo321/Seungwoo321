@@ -6,9 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-seungwoo321@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:seungwoo321@gmail.com)
 
 
-Hi there👋 
+Hi there👋, I'm Seungwoo Lee.
 
-I am **frontend developer**
+I am **frontend developer** using Javascript and Vue.js
 
 
 
