@@ -8,7 +8,7 @@
 
 Hi there👋 
 
-I am **frontend developer** using JavaScript and Vue.js
+I am **frontend developer**
 
 
 
