@@ -13,7 +13,6 @@
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)]()
 [![NextJS Badge](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)]()
 [![Tailwind Badge](https://img.shields.io/badge/tailwindcss-0F172A?&style=flat-square&logo=tailwindcss)]()
-
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)]()
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)]()
 [![Vite Badge](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)]()
@@ -22,21 +21,15 @@
 [![SVG Badge](https://img.shields.io/badge/-SVG-F9A03C?style=flat-square&logo=SVG&logoColor=white)]()
 [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)]()
 
-### 🛠️ Tools & Version Control
-[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)]()
-
 ### 💡 Other Technologies I've Worked With
+[![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)]()
 [![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)]()
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white)]()
 [![Amazon AWS Badge](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)]()
 [![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)]()
-
-### 📊 Database Experience
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)]()
 [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)]()
 [![SQLite Badge](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=SQLite&logoColor=white)]()
-
-### 📈 Monitoring & Data Visualization
 [![ElasticSearch Badge](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=ElasticSearch&logoColor=white)]()
 [![Logstash Badge](https://img.shields.io/badge/-Logstash-005571?style=flat&logo=Logstash&logoColor=white)]()
 [![Kibana Badge](https://img.shields.io/badge/-Kibana-005571?style=flat&logo=Kibana&logoColor=white)]()
