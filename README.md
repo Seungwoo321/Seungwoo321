@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-seungwoo321@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:seungwoo321@gmail.com)
 
 # Hi there 👋, I'm Seungwoo Lee
-## Frontend Developer specializing in JavaScript & Vue.js & React.js
+## Frontend Developer specializing in JavaScript & Vue.js and React.js
 
 ### 🚀 Main Skills
 [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)]()
