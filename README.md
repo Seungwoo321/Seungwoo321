@@ -1,7 +1,6 @@
 ![](./github-header-image.png)
 
 [![Blogger Badge](https://img.shields.io/badge/-Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white)](https://seungwoo321.github.io/)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/Seungwoo321)
 [![Gmail Badge](https://img.shields.io/badge/-seungwoo321@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:seungwoo321@gmail.com)
 
 # Hi there 👋, I'm Seungwoo Lee
@@ -13,6 +12,8 @@
 [![Vue.js Badge](https://img.shields.io/badge/-Vue.js-41B883?style=flat-square&logo=Vue.js&logoColor=white)]()
 [![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)]()
 [![NextJS Badge](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)]()
+[![Tailwind Badge](https://img.shields.io/badge/tailwindcss-0F172A?&style=flat-square&logo=tailwindcss)]()
+
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)]()
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)]()
 [![Vite Badge](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=Vite&logoColor=white)]()
