@@ -21,11 +21,12 @@ I maintain open source libraries and build side products.
 | Project | Description |
 |---|---|
 | [Wireweave](https://wireweave.org) | Wireframe DSL as a Service — [GitHub](https://github.com/wireweave) |
-| [StudyArk](https://apps.apple.com/app/id6759946292) | iOS learning app powered by 8 AI agent pipeline |
+| [StudyArk](https://studyark.app) | iOS learning app powered by 8 AI agent pipeline — [App Store](https://apps.apple.com/app/id6759946292) |
 
 ### Writing
 
 - [AI Agent Pipeline Series](https://seungwoo321.github.io/blog/2026/01/16/ai-agent-pipeline-10-final-review/) — 10 articles in 3 languages (KO/EN/JA)
+- [Vibe Coding 6 Months](https://seungwoo321.github.io/blog/2026/01/29/vibe-coding-6-months-journey/) — 4-part essay series
 
 <details>
 <summary><strong>Tech Stack</strong></summary>
