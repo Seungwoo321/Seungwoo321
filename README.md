@@ -7,7 +7,7 @@ I maintain open source libraries and build side products.
 **vue-pivottable** — Pivot table components for Vue ecosystem
 - [vue-pivottable](https://github.com/Seungwoo321/vue-pivottable) (Vue 2) / [vue3-pivottable](https://github.com/vue-pivottable/vue3-pivottable) (Vue 3)
 - [subtotal-renderer](https://github.com/vue-pivottable/subtotal-renderer) / [multi-value-renderer](https://github.com/vue-pivottable/multi-value-renderer) / [nuxt](https://github.com/vue-pivottable/nuxt)
-- 9 NPM packages, 6-year maintainer — ![Downloads](https://img.shields.io/npm/dw/vue-pivottable?style=flat-square&label=npm%20dw)
+- 7 NPM packages, 6-year maintainer — ![Downloads](https://img.shields.io/npm/dw/vue-pivottable?style=flat-square&label=npm%20dw)
 
 **wireweave** — Wireframe DSL with parser, renderer, and MCP server
 - [core](https://github.com/wireweave/core) / [mcp-server](https://github.com/wireweave/mcp-server) / [vscode-extension](https://github.com/wireweave/vscode-extension) / [markdown-plugin](https://github.com/wireweave/markdown-plugin) / [dashboard](https://github.com/wireweave/dashboard)
