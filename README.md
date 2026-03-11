@@ -10,7 +10,7 @@ I maintain open source libraries and build side products.
 - 7 NPM packages, 6-year maintainer — ![Downloads](https://img.shields.io/npm/dw/vue-pivottable?style=flat-square&label=npm%20dw)
 
 **wireweave** — Wireframe DSL with parser, renderer, and MCP server
-- [core](https://github.com/wireweave/core) / [mcp-server](https://github.com/wireweave/mcp-server) / [vscode-extension](https://github.com/wireweave/vscode-extension) / [markdown-plugin](https://github.com/wireweave/markdown-plugin) / [dashboard](https://github.com/wireweave/dashboard)
+- [core](https://github.com/wireweave/core) / [mcp-server](https://github.com/wireweave/mcp-server) / [vscode-extension](https://github.com/wireweave/vscode-extension) / [markdown-plugin](https://github.com/wireweave/markdown-plugin)
 - 5 NPM packages — ![Downloads](https://img.shields.io/npm/dw/@wireweave/core?style=flat-square&label=npm%20dw)
 
 **genai-\*** — AI-powered CLI tools for developer workflows
